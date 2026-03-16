@@ -915,3 +915,4 @@
 ### BREAKING CHANGES
 
 * Die Dateipfade zu allen Dokumentationsdateien (außer README.md) haben sich geändert. Alle direkten Links, die auf die alten Pfade verweisen, sind nicht mehr gültig. Diese Umstrukturierung ist notwendig, um die Kompatibilität mit neuen Automatisierungsprozessen für die Release-Erstellung und Dokumentationsverwaltung zu gewährleisten und eine saubere Grundlage für zukünftige Erweiterungen zu schaffen.
+as
